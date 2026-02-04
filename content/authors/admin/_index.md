@@ -29,14 +29,12 @@ role: Data Scientist / Data Engineer
 # ========================
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:seemamore32@gmail.com'
     label: E-mail Me
   - icon: brands/github
     url: https://github.com/seema25-more
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://www.linkedin.com/in/seema-more25/
 
 # ========================
 # Interests
@@ -57,19 +55,24 @@ education:
     date_end: 2024-01-03
     summary: |
       Thesis on handling temporal characteristics of data in sequential modelling.
+    button:
+      text: Read Thesis
+      url: https://github.com/seema25-more/Master-Thesis/blob/main/Seema_Master_Thesis__Final.pdf
     courses:
       - Agile Software Development
       - Image Processing
       - Computational Intelligence
       - Text Analysis & Data Search
-    button:
-      text: Read Thesis
-      url: https://github.com/seema25-more/Master-Thesis/blob/main/Seema_Master_Thesis__Final.pdf
 
   - area: B.E. Computer Engineering
     institution: Savitribai Phule Pune University
     date_start: 2015-05-01
     date_end: 2018-05-31
+    Courses:
+      - Díscrete Structure
+      - Data Structures & Problem Solving
+      - Design and Analysis of Algorithm
+      - Data Mining Technology & Application
 
   - area: Diploma in Computer Engineering
     institution: MSBTE
