@@ -40,10 +40,10 @@ profiles:
 # Interests
 # ========================
 interests:
+  - Data Science
   - Data Engineering
-  - Machine Learning
   - Data Analytics
-  - Cloud Computing
+  - Artificial Intelligence
 
 # ========================
 # Education
