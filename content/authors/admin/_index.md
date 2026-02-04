@@ -76,7 +76,7 @@ education:
   - area: Diploma Computer Engineering
     institution: MSBTE
     date_start: 2012-07-01
-    date_end: 2015-06-31
+    date_end: 2015-06-30
     summary: |
       GPA: 2.5/4.0
       
