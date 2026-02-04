@@ -188,19 +188,17 @@ languages:
     percent: 70
 
 # Awards.
-Awards:
   - title: Lila Poonwalla Foundation Educational Scholarship
     date: '2018-06-01'
     awarder: Lila Poonwalla Foundation
-    icon: award
     summary: |
-      Awarded the Lila Poonwalla Foundation scholarship in recognition of academic merit and financial need, supporting my Diploma and Bachelor’s degree education.
+      Awarded a merit-based scholarship supporting Diploma and Bachelor’s degree education.
+
   - title: Sakal Foundation Abroad Education Scholarship
     date: '2022-08-01'
     awarder: Sakal Foundation
-    icon: award
     summary: |
-      Received the Sakal Foundation scholarship to support my Master’s studies abroad based on academic performance and overall merit.
+      Received a merit-based scholarship to support Master’s studies abroad.
 
 ## About Me
 
