@@ -55,24 +55,26 @@ education:
     date_end: 2024-01-03
     summary: |
       Thesis on handling temporal characteristics of data in sequential modelling.
-    button:
-      text: Read Thesis
-      url: https://github.com/seema25-more/Master-Thesis/blob/main/Seema_Master_Thesis__Final.pdf
-    courses:
+      **Courses:**
       - Agile Software Development
       - Image Processing
       - Computational Intelligence
       - Text Analysis & Data Search
+    button:
+      text: Read Thesis
+      url: https://github.com/seema25-more/Master-Thesis/blob/main/Seema_Master_Thesis__Final.pdf
 
   - area: B.E. Computer Engineering
     institution: Savitribai Phule Pune University
     date_start: 2015-05-01
     date_end: 2018-05-31
-    Courses:
-      - Díscrete Structure
+    summary: |
+      **Courses:**
+      - Discrete Structures
       - Data Structures & Problem Solving
-      - Design and Analysis of Algorithm
-      - Data Mining Technology & Application
+      - Design and Analysis of Algorithms
+      - Data Mining Technology & Applications
+
 
   - area: Diploma in Computer Engineering
     institution: MSBTE
