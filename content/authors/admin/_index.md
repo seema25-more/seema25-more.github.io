@@ -1,3 +1,4 @@
+---
 # Display name
 title: Seema
 
@@ -200,7 +201,8 @@ awards:
     awarder: Sakal Foundation
     summary: |
       Received a merit-based scholarship to support Master’s studies abroad.
-
+    
+---
 ## About Me
 
 I am a Computer Science professional with industry experience in data engineering and analytics. I have worked with Microsoft Azure, Databricks, Apache Spark, Python, and SQL to build and optimize data pipelines and deliver reliable data-driven insights. I am interested in solving real-world problems through scalable and efficient data solutions.
