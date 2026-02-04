@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Seema
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Seema More
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Seema
+last_name: More
 
 # Status emoji
 status:
@@ -20,12 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
-
-# Organizations/Affiliations to display in Biography blox
-organizations:
-  - name: OpenAI
-    url: https://openai.com/
+role: Data Scientist / Data Engineer
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -33,8 +28,6 @@ profiles:
   - icon: at-symbol
     url: 'mailto:your-email@example.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
   - icon: brands/instagram
     url: https://www.instagram.com/
   - icon: brands/github
@@ -50,28 +43,31 @@ interests:
   - Artificial Intelligence
   - Computational Linguistics
   - Information Retrieval
+  - Data Engineering
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: M.Sc. Applied Computer Science
+    institution: Schmalkaden University of Applied Sciences
+    date_start: 2019-10-01
+    date_end: 2024-01-03
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Thesis on Handling Temporal Characteristics of data in sequential modelling. Supervised by [Dr. Rolf Bardeli, Dr. Prof. Martin Golz]. Publisehd research paper at Nachwuchswissenschaftler:innenkonferenz, DOI
+10.48446/opus-15424. (Seema More, Martin Golz,Rold Bardeli).
     button:
       text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      url: 'https://github.com/seema25-more/Master-Thesis/blob/main/Seema_Master_Thesis__Final.pdf'
+  - area: B.E. Computer Engineering
+    institution: Savitribai Phule Pune University
+    date_start: 2015-05-01
+    date_end: 2018-05-31
     summary: |
-      GPA: 3.8/4.0
+      Percentages: 78%
 
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Agile Software Development
+      - Image Processing
+      - Computational Intelligence
+      - Text Analysis & Data Search
   - area: BSc Artificial Intelligence
     institution: Massachusetts Institute of Technology
     date_start: 2016-01-01
@@ -80,32 +76,48 @@ education:
       GPA: 3.4/4.0
       
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Díscrete Structure
+      - Data Structures & Problem Solving
+      - Design and Analysis of Algorithm
+      - Data Mining Technology & Application
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Data Engineer
+    company_name: eSSL Technology Development
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
+    date_start: 2024-01-01
+    date_end: 2025-06-30
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+      - Developed, optimized, and maintained ETL pipelines for batch data processing.
+      - Built and managed Spark tables using Microsoft Azure and Databricks.
+      - Implemented SQL-based analytics and external Delta tables.
+      - Identified and resolved data quality issues and improved reporting accuracy.
+  - position: Data Science Intern / Master’s Thesis Student
+    company_name: Vodafone GmbH
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2022-09-01
+    date_end: 2023-08-31
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Analyzed time-series data to forecast retail contract sales.
+      - Used Python for data manipulation, analysis, and visualization.
+      - Implemented deep learning models using Keras, including LSTM and GRU.
+      - Built hybrid models combining sequential and static data.
+      - Evaluated preprocessing techniques and model performance.
+  - position: Junior Software Developer
+    company_name: Guru Softwares
+    company_url: ''
+    company_logo: ''
+    date_start: 2018-11-01
+    date_end: 2019-09-30
+    summary: |
+      Responsibilities include:
+      - Assisted in designing, developing, and testing software modules.
+      - Gained hands-on experience working in a professional software environment.
+      - Collaborated with the team to support organizational goals and project delivery.
+    
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
