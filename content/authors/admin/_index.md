@@ -55,30 +55,30 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://github.com/seema25-more/Master-Thesis/blob/main/Seema_Master_Thesis__Final.pdf'
-  - area: B.E. Computer Engineering
-    institution: Savitribai Phule Pune University
-    date_start: 2015-05-01
-    date_end: 2018-05-31
-    summary: |
-      Percentages: 78%
-
       Courses included:
       - Agile Software Development
       - Image Processing
       - Computational Intelligence
       - Text Analysis & Data Search
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: B.E. Computer Engineering
+    institution: Savitribai Phule Pune University
+    date_start: 2015-05-01
+    date_end: 2018-05-31
     summary: |
       GPA: 3.4/4.0
-      
+
       Courses included:
       - Díscrete Structure
       - Data Structures & Problem Solving
       - Design and Analysis of Algorithm
       - Data Mining Technology & Application
+  - area: Diploma Computer Engineering
+    institution: MSBTE
+    date_start: 2012-07-01
+    date_end: 2015-06-31
+    summary: |
+      GPA: 2.5/4.0
+      
 work:
   - position: Data Engineer
     company_name: eSSL Technology Development
@@ -118,80 +118,93 @@ work:
       - Collaborated with the team to support organizational goals and project delivery.
     
 
-# Skills
-# Add your own SVG icons to `assets/media/icons/`
-skills:
+#skills:
   - name: Technical Skills
     items:
       - name: Python
-        description: ''
-        percent: 80
+        description: Data processing, analysis, and machine learning
+        percent: 85
         icon: code-bracket
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-bar
       - name: SQL
-        description: ''
-        percent: 40
+        description: Data analysis, reporting, and query optimization
+        percent: 80
         icon: circle-stack
+      - name: ETL & Data Pipelines
+        description: Batch data processing and pipeline optimization
+        percent: 80
+        icon: arrows-right-left
+      - name: Apache Spark
+        description: Spark tables, partitioning, and performance optimization
+        percent: 75
+        icon: sparkles
+      - name: Databricks
+        description: Big data processing using Databricks on Azure
+        percent: 75
+        icon: cloud
+      - name: Microsoft Azure
+        description: Cloud-based data workflows and storage
+        percent: 70
+        icon: cloud
+      - name: Machine Learning
+        description: Time-series analysis and predictive modeling
+        percent: 70
+        icon: chart-bar
+      - name: Deep Learning
+        description: LSTM, GRU models using Keras
+        percent: 65
+        icon: cpu-chip
+      - name: Data Analysis
+        description: Data cleaning, validation, and insight generation
+        percent: 80
+        icon: magnifying-glass
+      - name: Git & Version Control
+        description: Code versioning and collaboration
+        percent: 70
+        icon: code-bracket-square
+
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Cooking
         description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
+        percent: 70
+        icon: fire
+      - name: Travelling
         description: ''
         percent: 80
-        icon: camera
+        icon: map
+      - name: Yoga & Meditation
+        description: ''
+        percent: 85
+        icon: heart
+
 
 languages:
   - name: English
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: Hindi/Marathi
+    percent: 100
+  - name: German
+    percent: 70
 
 # Awards.
-#   Add/remove as many awards below as you like.
-#   Only `title`, `awarder`, and `date` are required.
-#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
+Awards:
+  - title: Lila Poonwalla Foundation Educational Scholarship
+    date: '2018-06-01'
+    awarder: Lila Poonwalla Foundation
+    icon: award
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
+      Awarded the Lila Poonwalla Foundation scholarship in recognition of academic merit and financial need, supporting my Diploma and Bachelor’s degree education.
+  - title: Sakal Foundation Abroad Education Scholarship
+    date: '2022-08-01'
+    awarder: Sakal Foundation
+    icon: award
     summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
-    summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
----
+      Received the Sakal Foundation scholarship to support my Master’s studies abroad based on academic performance and overall merit.
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a Computer Science professional with industry experience in data engineering and analytics. I have worked with Microsoft Azure, Databricks, Apache Spark, Python, and SQL to build and optimize data pipelines and deliver reliable data-driven insights. I am interested in solving real-world problems through scalable and efficient data solutions.
+
+
