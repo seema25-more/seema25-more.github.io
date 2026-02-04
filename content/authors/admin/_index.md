@@ -54,7 +54,8 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://github.com/seema25-more/Master-Thesis/blob/main/Seema_Master_Thesis__Final.pdf'
-      Courses included:
+
+    Courses included:
       - Agile Software Development
       - Image Processing
       - Computational Intelligence
@@ -117,7 +118,7 @@ work:
       - Collaborated with the team to support organizational goals and project delivery.
     
 
-#skills:
+skills:
   - name: Technical Skills
     items:
       - name: Python
@@ -187,7 +188,7 @@ languages:
   - name: German
     percent: 70
 
-# Awards.
+awards:
   - title: Lila Poonwalla Foundation Educational Scholarship
     date: '2018-06-01'
     awarder: Lila Poonwalla Foundation
