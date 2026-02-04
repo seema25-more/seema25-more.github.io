@@ -51,8 +51,7 @@ education:
     date_start: 2019-10-01
     date_end: 2024-01-03
     summary: |
-      Thesis on Handling Temporal Characteristics of data in sequential modelling. Supervised by [Dr. Rolf Bardeli, Dr. Prof. Martin Golz]. Publisehd research paper at Nachwuchswissenschaftler:innenkonferenz, DOI
-10.48446/opus-15424. (Seema More, Martin Golz,Rold Bardeli).
+      Thesis on Handling Temporal Characteristics of data in sequential modelling. Supervised by [Dr. Rolf Bardeli, Dr. Prof. Martin Golz]. Publisehd research paper at Nachwuchswissenschaftler:innenkonferenz, DOI 10.48446/opus-15424. (Seema More, Martin Golz,Rold Bardeli).
     button:
       text: 'Read Thesis'
       url: 'https://github.com/seema25-more/Master-Thesis/blob/main/Seema_Master_Thesis__Final.pdf'
