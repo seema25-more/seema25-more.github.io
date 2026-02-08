@@ -90,20 +90,24 @@ work:
     date_start: 2024-01-01
     date_end: 2025-06-30
     summary: |
-      - Developed and optimized ETL pipelines for batch data processing.
-      - Built and managed Spark tables using Microsoft Azure and Databricks.
-      - Implemented SQL-based analytics and external Delta tables.
-      - Improved data quality and reporting accuracy through validation and optimization.
+      - Worked on end-to-end analytics data pipelines, building and optimizing ETL workflows to prepare batch data for reporting and business analysis across 10+ datasets.
+      - Created and maintained Spark and Delta tables on Azure Databricks supporting 5–10 recurring reports and dashboards.
+      - Developed SQL queries and reporting tables to support KPI tracking, trend analysis, and ad-hoc data requests from 3–5 business stakeholders.
+      - Improved reporting accuracy by adding data validation checks and refining transformation logic, reducing recurring data issues in dashboards.
+      - Reduced manual reporting effort by standardizing data structures and improving availability of analytics-ready data used in regular reporting.
+      - Investigated and resolved multiple data quality issues affecting reports and dashboards by identifying root causes and implementing fixes.
 
   - position: Data Science Intern / Master’s Thesis Student
     company_name: Vodafone GmbH
     date_start: 2022-09-01
     date_end: 2023-08-31
     summary: |
-      - Performed time-series analysis to forecast retail contract sales.
-      - Built machine learning and deep learning models using Python and Keras.
-      - Worked with LSTM and GRU models for sequential data.
-      - Evaluated preprocessing techniques and model performance.
+      - Preprocessed raw sales data and aggregated it into monthly time-series data (132 observations) covering the period from 2012 to 2022.
+      - Analyzed long-term trends and seasonality in retail contract sales using the cleaned monthly dataset.
+      - Developed and evaluated multiple forecasting models in Python, including LSTM and GRU, and compared their performance using Mean Absolute Error (MAE).
+      - Built a hybrid forecasting approach that achieved approximately 12% improvement in MAE compared to individual baseline models.
+      - Visualized historical trends, forecasts, and model outputs to communicate analytical insights clearly.
+      - Documented data preparation steps, model evaluation results, and key findings as part of the master’s thesis and internship deliverables.
 
   - position: Junior Software Developer (Intern)
     company_name: Guru Softwares
