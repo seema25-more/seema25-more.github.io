@@ -10,6 +10,7 @@ doi: "10.48446/opus-15424"
 featured: true
 image:
   filename: featured.jpg
+share: false
 ---
 
 ## Abstract
