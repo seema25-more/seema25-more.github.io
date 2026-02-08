@@ -47,4 +47,4 @@ sections:
         I have industry experience working with technologies such as SQL, Python, Power BI, Microsoft Azure, Databricks, and Apache Spark. My work focuses on data analysis, forecasting, and creating clear, actionable insights for stakeholders.
 
         I am interested in analytics-driven problem solving, business intelligence, and using data to support strategic decisions. Feel free to reach out if you would like to collaborate or discuss data-driven projects 😊
-
+---
